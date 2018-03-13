@@ -1,0 +1,7 @@
+[2018-03-11 11:48:07] [INFO] RetryCount=0
+[2018-03-11 11:48:07] [INFO] SourceDir=src/com/demo/test/testcases
+[2018-03-11 11:48:07] [INFO] SourceEncoding=UTF-8
+[2018-03-11 11:48:07] [WARN] FindFlight 测试用例由于某些原因被跳过！
+[2018-03-11 11:48:07] [ERROR] [2018_03_11_11_48_07_FindFlight] ,截图失败，原因：null
+[2018-03-11 11:48:07] [WARN] loginSuccessFunction 测试用例由于某些原因被跳过！
+[2018-03-11 11:48:07] [ERROR] [2018_03_11_11_48_07_loginSuccessFunction] ,截图失败，原因：null

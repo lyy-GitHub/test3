@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="385" started-at="2018-03-13T02:26:46Z" finished-at="2018-03-13T02:26:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="385" started-at="2018-03-13T02:26:46Z" finished-at="2018-03-13T02:26:46Z">
+      <class name="com.demo.test.testcases.login.TestDataProvider">
+        <test-method status="PASS" signature="testmethod1(java.util.Map)[pri:0, instance:com.demo.test.testcases.login.TestDataProvider@1bce4f0a]" name="testmethod1" duration-ms="31" started-at="2018-03-13T10:26:46Z" data-provider="providerMethod" finished-at="2018-03-13T10:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{button=12, input=11}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method status="PASS" signature="testmethod1(java.util.Map)[pri:0, instance:com.demo.test.testcases.login.TestDataProvider@1bce4f0a]" name="testmethod1" duration-ms="0" started-at="2018-03-13T10:26:46Z" data-provider="providerMethod" finished-at="2018-03-13T10:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{button=14, input=13}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method status="PASS" signature="testmethod2(java.util.Map)[pri:0, instance:com.demo.test.testcases.login.TestDataProvider@1bce4f0a]" name="testmethod2" duration-ms="0" started-at="2018-03-13T10:26:46Z" data-provider="providerMethod" finished-at="2018-03-13T10:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{button=24, input=23}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2 -->
+        <test-method status="PASS" signature="testmethod3(java.util.Map)[pri:0, instance:com.demo.test.testcases.login.TestDataProvider@1bce4f0a]" name="testmethod3" duration-ms="0" started-at="2018-03-13T10:26:46Z" data-provider="providerMethod" finished-at="2018-03-13T10:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{button=34, input=33}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod3 -->
+        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.demo.test.testcases.login.TestDataProvider@1bce4f0a]" name="testmethod4" duration-ms="0" started-at="2018-03-13T10:26:46Z" finished-at="2018-03-13T10:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod4 -->
+      </class> <!-- com.demo.test.testcases.login.TestDataProvider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
